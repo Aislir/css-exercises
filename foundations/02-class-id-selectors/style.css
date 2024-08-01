@@ -1,0 +1,20 @@
+p {
+    background-color: #ffb3b3;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topbottom {
+    font-size: 16px;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+#four {
+    font-size: 24px;
+    background-color: #80ff80;
+    font-weight: bold;
+}
