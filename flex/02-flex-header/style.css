@@ -1,11 +1,10 @@
 .header  {
   font-family: 'Times New Roman', Times, serif;
   background: papayawhip;
-  padding: 8px;
   display: flex;
-  align-items: center;
+  padding: 10px;
   justify-content: space-between;
-  flex-wrap: wrap;
+  align-items: center;
 }
 
 .logo {
@@ -14,10 +13,9 @@
   color: tomato;
   background: white;
   padding: 4px 24px;
-  border: 0;
-  margin: 0;
+  justify-content: center;
+  align-content: center;
 }
-
 
 ul {
   /* this removes the dots on the list items*/
@@ -25,15 +23,13 @@ ul {
   display: flex;
   gap: 10px;
   padding: 0;
-  border: 0;
   margin: 0;
 }
 
 a {
-  font-size: 16px;
+  font-size: 20px;
   background: white;
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-
 }
